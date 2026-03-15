@@ -1,3 +1,5 @@
+// sum of n numbers
+
 public class sumNnumbers {
   public static void main(String[] args) {
   int sum=0;
