@@ -9,4 +9,4 @@ public class normalSyntax {
   }
 }
 
-// watch carefully there is void so it is basically for a empty function.we can return it simply.
+// Since the function type is void, it does not return any value.We can still use 'return' to stop the function execution.
