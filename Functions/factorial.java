@@ -1,15 +1,15 @@
-public class factorial {
-  public static int factorial (int n){
-    int f=1;
+// public class factorial {
+//   public static int factorial (int n){
+//     int f=1;
 
-    for (int i = 1; i <= n; i++) {
-      f=f*i;
-    }
-    System.out.println(f);
-    return f;
+//     for (int i = 1; i <= n; i++) {
+//       f=f*i;
+//     }
+//     System.out.println(f);
+//     return f;
     
-  }
-  public static void main(String[] args) {
-    factorial(5);
-  }
-}
+//   }
+//   public static void main(String[] args) {
+//     factorial(5);
+//   }
+// }
