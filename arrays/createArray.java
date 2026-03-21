@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package arrays;
 
 public class createArray {
   public static void main(String[] args) {
