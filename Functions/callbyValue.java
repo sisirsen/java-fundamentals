@@ -1,5 +1,5 @@
 public class callbyValue {
-  public static void func(int x){
+  static void func(int x){
     x=40;
     System.out.println(x);
   }
